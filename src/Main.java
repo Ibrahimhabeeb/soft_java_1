@@ -7,5 +7,6 @@ public class Main {
         Learning cl = new childlearn("Polymorphism", "Wazir");
         Learning branchin = new childlearn("merge conflicts", 'Habeebranch');
         branchin.logresult();
+        branchin.getClass();
     }
 }
